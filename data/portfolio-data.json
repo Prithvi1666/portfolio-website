@@ -37,7 +37,7 @@
       {
         "name": "English",
         "proficiency": "Professional",
-        "level": 90,
+        "level": 70,
         "flag": "🇬🇧"
       },
       {
@@ -120,13 +120,13 @@
         "name": "Hackathon Finalist (2nd Place)",
         "issuer": "Sheryians Coding School",
         "date": "2024",
-        "logo": "/hackathon-logo.png"
+        "logo": "/2nd.jpg"
       },
       {
         "name": "Published Research Paper",
         "issuer": "Gradiva Review Journal (UGC-CARE, Scopus Indexed)",
         "date": "2025",
-        "logo": "/journal-logo.png"
+        "logo": "/GRJ 8293.jpg"
       }
     ],
     "education": [
