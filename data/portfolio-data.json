@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "title": "Prithviraj Daud | Software Developer & UI/UX Designer",
+    "description": "Portfolio website showcasing projects, skills, and achievements in software development and UI/UX design"
+  },
+  "personal": {
+    "name": "Prithviraj Daud",
+    "title": "Aspiring Software Developer & UI/UX Designer",
+    "location": "Ch.Smabhaji Nagar, Maharashtra, India",
+    "avatar": "/IMG_1821.jpg",
+    "email": "prithvirajdaud143@gmail.com",
+    "phone": "+91 8177932219",
+    "workingHours": "Flexible",
+    "availableForWork": true,
+    "badges": ["UI/UX", "Frontend Development", "Full Stack Projects", "Hackathons"],
+    "social": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/",
+        "icon": "Github"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/prithviraj-daud-514575212/",
+        "icon": "Linkedin"
+      }
+    ]
+  },
+  "about": {
+    "bio": "Aspiring software developer with a background in Electronics & Computer Engineering. Skilled in Python, JavaScript, React, and database management. Passionate about UI/UX design, creative problem-solving, and building intuitive, user-friendly digital experiences. Hackathon finalist and published research author.",
+    "focus": [
+      "Building scalable full-stack applications",
+      "Creating seamless UI/UX experiences",
+      "Exploring IoT and emerging technologies"
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Professional",
+        "level": 90,
+        "flag": "🇬🇧"
+      },
+      {
+        "name": "Marathi",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇮🇳"
+      },
+      {
+        "name": "Hindi",
+        "proficiency": "Fluent",
+        "level": 95,
+        "flag": "🇮🇳"
+      }
+    ],
+    "interests": ["UI/UX Design", "Full-Stack Development", "Hackathons", "IoT", "Creative Coding"]
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Credentials", "href": "#credentials" }
+  ],
+  "experience": [
+    {
+      "title": "Electronics Engineer Intern",
+      "company": "DRS Group of Industries",
+      "period": "2023",
+      "description": "Worked on LED light manufacturing, testing, and quality control. Contributed to PCB design, circuit analysis, and troubleshooting to ensure product efficiency and reliability.",
+      "achievements": [
+        "Hands-on experience in production and quality testing",
+        "Collaborated to improve production processes",
+        "Enhanced troubleshooting and circuit design skills"
+      ],
+      "technologies": ["PCB Design", "Circuit Analysis", "Testing"]
+    },
+    {
+      "title": "Team Lead, Frontend Developer & Animator",
+      "company": "Reimagine Hackathon – Sheryians Coding School",
+      "period": "Sept 2024",
+      "description": "Led a 4-member team in a national hackathon, contributing as frontend developer and animator. Designed and built interactive website redesigns using Figma, HTML, Tailwind, JavaScript, and GSAP.",
+      "achievements": [
+        "Secured 2nd place among 700+ participants",
+        "Redesigned Adobe Firefly website with animations",
+        "Showcased strong leadership and technical expertise"
+      ],
+      "technologies": ["Figma", "Tailwind CSS", "JavaScript", "GSAP"]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Funngro Redesign",
+      "description": "Designed and developed a responsive landing page for the Funngro platform, enhancing UI/UX with smooth animations.",
+      "tools": ["Figma", "HTML", "CSS", "TailwindCSS", "JavaScript", "GSAP"],
+      "link": "#"
+    },
+    {
+      "title": "Sumangal Caterers Redesign",
+      "description": "Created a modern landing page with engaging UI/UX and interactive animations for a catering business.",
+      "tools": ["Figma", "HTML", "CSS", "TailwindCSS", "JavaScript", "GSAP"],
+      "link": "#"
+    },
+    {
+      "title": "Car Rental Booking Website",
+      "description": "Built a complete MERN stack car rental platform with JWT authentication, REST APIs, ImageKit integration, and responsive frontend.",
+      "tools": ["MongoDB", "Express.js", "React.js", "Node.js", "TailwindCSS"],
+      "link": "#"
+    },
+    {
+      "title": "IoT-Based Smart Energy Meter with Theft Detection",
+      "description": "Developed an IoT-based system using Arduino, GSM, and LDR sensors to monitor energy usage and detect theft. Published research paper in Gradiva Review Journal (UGC-CARE, Scopus Indexed, June 2025).",
+      "tools": ["Arduino", "GSM", "IoT Sensors"],
+      "link": "#"
+    }
+  ],
+  "credentials": {
+    "certifications": [
+      {
+        "name": "Hackathon Finalist (2nd Place)",
+        "issuer": "Sheryians Coding School",
+        "date": "2024",
+        "logo": "/hackathon-logo.png"
+      },
+      {
+        "name": "Published Research Paper",
+        "issuer": "Gradiva Review Journal (UGC-CARE, Scopus Indexed)",
+        "date": "2025",
+        "logo": "/journal-logo.png"
+      }
+    ],
+    "education": [
+      {
+        "degree": "BTech – Electronics & Computer Engineering",
+        "institution": "Shreeyash College of Engineering & Technology",
+        "year": "2021–2025",
+        "logo": "/collage_logo.webp"
+      }
+    ],
+    "skills": [
+      "UI/UX Design",
+      "Frontend Development",
+      "Full-Stack Projects",
+      "Design Systems",
+      "Prototyping",
+      "Problem Solving",
+      "Team Collaboration"
+    ]
+  },
+  "technicalSkills": {
+    "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer Motion"],
+    "development": ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind", "Python", "Java", "SQL", "Git"],
+    "uxMethods": ["Wireframing", "Prototyping", "Design Systems", "Animations (GSAP)", "User-Centered Design"],
+    "softSkills": ["Team Leadership", "Problem-Solving", "Creativity", "Innovation", "Collaboration"]
+  }
+}
