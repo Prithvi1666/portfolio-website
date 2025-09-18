@@ -14,8 +14,14 @@ const metaInfo = getMetaInfo()
 export const metadata: Metadata = {
   title: metaInfo.title,
   description: metaInfo.description,
-    generator: 'v0.app'
+  generator: "v0.app",
+  icons: {
+    icon: "/img_1821.jpg", // put favicon.ico inside /public
+    shortcut: "/img_1821.jpg",
+    apple: "/apple-touch-icon.png", // optional for iOS
+  },
 }
+
 
 export default function RootLayout({
   children,
