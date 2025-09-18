@@ -195,6 +195,65 @@ const projects: Project[] = [
     ],
   },
 
+  {
+  "id": 4,
+  "slug": "background-removal-app",
+  "title": "Background Removal App",
+  "category": "AI Tool",
+  "shortDescription": "A smart AI-powered tool that removes image backgrounds instantly with Dark & Light theme support.",
+  "description": [
+    "The Background Removal App is a web-based AI tool designed to help users remove image backgrounds quickly and efficiently.",
+    "With just a single upload, users can generate a transparent background image without any manual editing.",
+    "The app is built with a clean and responsive UI and supports Dark Mode & Light Mode for a personalized user experience."
+  ],
+  "features": [
+    "AI-powered automatic background removal for uploaded images.",
+    "Dark Mode & Light Mode toggle for flexible viewing.",
+    "Simple and intuitive interface for easy usage.",
+    "Fast, accurate, and responsive performance.",
+    "Accessible on desktop and mobile devices."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS (Dark Mode + Light Mode)",
+    "AI/ML API for Background Removal",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/bg-front-page.png",
+  "thumbnailImage": "/bg-front-page.png",
+  "gallery": [
+    { "url": "/bg-front-page.png", "caption": "Home Page" },
+    { "url": "/bg-2nd-page.png", "caption": "2nd-page" },
+    { "url": "/bg-3rd-page.png", "caption": "3rd-page" },
+    { "url": "/bg-4th-page.png", "caption": "4th-page" },
+    { "url": "/bg-5th-page.png", "caption": "5th-page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "2 weeks (Q3 2024)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://bg-removal-alpha-seven.vercel.app/",
+  "githubUrl": "https://github.com/Prithvi1666/bg-removal",
+  "relatedProjects": [
+    {
+      "slug": "agency-ai",
+      "title": "Agency AI",
+      "category": "AI Website",
+      "image": "/ai-home page.png"
+    },
+    {
+      "slug": "car-rental",
+      "title": "Car Rental",
+      "category": "Website Platform for Car Rentals",
+      "image": "/carRental Home page.png"
+    }
+  ]
+}
+
+
+  
+
   
 ]
 
@@ -210,7 +269,7 @@ export function getProjectBySlug(slug: string): Project | undefined {
   return projects.find((project) => project.slug === slug)
 }
 
-export function getRelatedProjects(currentSlug: string, limit = 2): RelatedProject[] {
+export function getRelatedProjects(currentSlug: string, limit = 3): RelatedProject[] {
   const currentProject = getProjectBySlug(currentSlug)
   if (!currentProject || !currentProject.relatedProjects) {
     // If no related projects defined, return random projects
