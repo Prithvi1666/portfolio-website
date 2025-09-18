@@ -88,6 +88,21 @@
       "technologies": ["Figma", "Tailwind CSS", "JavaScript", "GSAP"]
     }
   ],
+  "finalproject": [
+    {
+  "title": "Final Year Project - IoT-Based Smart Energy Meter with Theft Detection",
+  "company": "Shreeyash College of Engineering & Technology",
+  "period": "2025",
+  "description": "Developed an IoT-based Smart Energy Meter with Theft Detection using Arduino, GSM, and LDR sensors to monitor energy usage and detect electricity theft in real-time. The system sends SMS alerts if unauthorized tampering is detected. The project was extended into a research paper published in Gradiva Review Journal (UGC-CARE, Scopus Indexed), Volume 11, Issue 6, June 2025.",
+  "achievements": [
+    "Designed and implemented a real-time energy monitoring system",
+    "Integrated GSM module for instant SMS alerts on theft detection",
+    "Published research paper in Gradiva Review Journal (UGC-CARE, Scopus Indexed)"
+  ],
+  "technologies": ["Arduino", "GSM", "LDR Sensor", "Embedded Systems", "Arduino IDE"]
+}
+
+  ],
   "projects": [
     {
       "title": "Funngro Redesign",
@@ -149,7 +164,7 @@
   },
   "technicalSkills": {
     "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer Motion"],
-    "development": ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind", "Python", "Java", "SQL", "Git"],
+    "development": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Tailwind", "Python", "Java", "SQL", "Git"],
     "uxMethods": ["Wireframing", "Prototyping", "Design Systems", "Animations (GSAP)", "User-Centered Design"],
     "softSkills": ["Team Leadership", "Problem-Solving", "Creativity", "Innovation", "Collaboration"]
   }

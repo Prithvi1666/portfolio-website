@@ -30,6 +30,11 @@ export function getExperienceInfo() {
   return data.experience
 }
 
+export function getFinalProjectInfo() {
+  return data.finalproject
+}
+
+
 // Helper function to get credentials information
 export function getCredentialsInfo() {
   return data.credentials

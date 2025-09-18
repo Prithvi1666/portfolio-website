@@ -3,7 +3,7 @@ import { GlobeIcon, CodeIcon, BriefcaseIcon } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { ProjectCard } from "@/components/project-card"
-import { getAllProjects } from "@/lib/data"
+import { getAllProjects, getFinalProjectInfo } from "@/lib/data"
 import { ExperienceCard } from "@/components/experience-card"
 import { EnhancedScrollIndicator } from "@/components/enhanced-scroll-indicator"
 import { AnimatedSection } from "@/components/animated-section"
@@ -20,6 +20,7 @@ export default function Home() {
   const projects = getAllProjects()
   const experienceInfo = getExperienceInfo()
   const technicalSkills = getTechnicalSkillsInfo()
+  const finalProjectInfo = getFinalProjectInfo()
 
   return (
     <main className="min-h-screen bg-black text-white">
@@ -59,6 +60,33 @@ export default function Home() {
                           description={experience.description}
                           achievements={experience.achievements}
                           technologies={experience.technologies}
+                        />
+                      </AnimatedSection>
+                    ))}
+                  </div>
+                </CardContent>
+              </Card>
+            </AnimatedSection>
+
+            {/* Final Year Project Section */}
+            <AnimatedSection animation="fade-up" id="final-project">
+              <Card className="bg-zinc-900/70 border-zinc-800 backdrop-blur-sm">
+                <CardContent className="p-4 sm:p-6">
+                  <div className="flex items-center mb-4 sm:mb-6">
+                    <BriefcaseIcon className="w-5 h-5 mr-2 text-cyan-400" />
+                    <h3 className="text-lg font-medium">Final Year Project</h3>
+                  </div>
+
+                  <div className="space-y-6 sm:space-y-8">
+                    {finalProjectInfo.map((project, index) => (
+                      <AnimatedSection key={index} animation="fade-up" delay={100 * (index + 1)}>
+                        <ExperienceCard
+                          title={project.title}
+                          company={project.company}
+                          period={project.period}
+                          description={project.description}
+                          achievements={project.achievements}
+                          technologies={project.technologies}
                         />
                       </AnimatedSection>
                     ))}
