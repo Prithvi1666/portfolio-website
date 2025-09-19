@@ -249,8 +249,62 @@ const projects: Project[] = [
       "image": "/carRental Home page.png"
     }
   ]
-}
+},
 
+ {
+  "id": 5,
+  "slug": "superfinal-master",
+  "title": "SuperFinal Master",
+  "category": "Web Application",
+  "shortDescription": "A modern and responsive web platform built to deliver smooth user experiences with a clean interface and advanced features.",
+  "description": [
+    "The SuperFinal Master Project is a responsive web application designed to demonstrate modern UI/UX practices and efficient frontend development.",
+    "It provides a professional layout, smooth navigation, and adaptability for multiple use cases.",
+    "The platform emphasizes responsiveness, minimal design, and performance optimization to deliver a seamless experience across devices."
+  ],
+  "features": [
+    "Responsive and mobile-friendly web design.",
+    "Clean and minimal UI with smooth navigation.",
+    "Fast performance powered by React.js and Tailwind CSS.",
+    "Dark Mode & Light Mode theme support.",
+    "Deployed on Vercel for global accessibility."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS (Dark Mode + Light Mode)",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/b-front page.png",
+  "thumbnailImage": "/b-front page.png",
+  "gallery": [
+    { "url": "/b-front page.png", "caption": "Home Page" },
+    { "url": "/b-2nd-page.png", "caption": "2nd Page" },
+    { "url": "/b-3rd-page.png", "caption": "3rd page" },
+    { "url": "/b-4th-page.png", "caption": "4th page" },
+    { "url": "/b-5th-page.png", "caption": "5th page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q3 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://superfinal-master.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/superfinal-master",
+  "relatedProjects": [
+    {
+      "slug": "agency-ai",
+      "title": "Agency AI",
+      "category": "AI Website",
+      "image": "/ai-home page.png"
+    },
+    {
+      "slug": "background-removal-app",
+      "title": "Background Removal App",
+      "category": "AI Tool",
+      "image": "/bg-home.png"
+    }
+  ]
+}
 
   
 
