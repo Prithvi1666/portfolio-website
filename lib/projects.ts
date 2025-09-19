@@ -289,7 +289,7 @@ const projects: Project[] = [
   "timeline": "3 weeks (Q3 2025)",
   "role": "Frontend Developer & UI/UX Designer",
   "liveUrl": "https://superfinal-master.vercel.app",
-  "githubUrl": "https://github.com/Prithvi1666/superfinal-master",
+  "githubUrl": "https://github.com/Prithvi1666/superlevel",
   "relatedProjects": [
     {
       "slug": "agency-ai",
