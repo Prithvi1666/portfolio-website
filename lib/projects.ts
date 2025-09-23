@@ -304,6 +304,63 @@ const projects: Project[] = [
       "image": "/bg-home.png"
     }
   ]
+},
+
+{
+  "id": 6,
+  "slug": "real-estate",
+  "title": "Real Estate ",
+  "category": "Real Estate Website",
+  "shortDescription": "A clean, responsive real estate platform to browse, search, and view property listings with engaging UI.",
+  "description": [
+    "The Real Estate PD Project is a web application that allows users to explore property listings with detailed information and images.",
+    "It features robust search and filtering options so users can narrow down properties by location, price, and type.",
+    "The UI is designed to be clean and responsive, with seamless navigation across devices and a polished user experience."
+  ],
+  "features": [
+    "Property browsing with listing details and images.",
+    "Search and filters for price, type, and location.",
+    "Responsive UI optimized for desktop and mobile.",
+    "Fast load times and smooth interactions.",
+    "Polished design with attention to usability."
+  ],
+  "technologies": [
+    "React.js",
+    "Vite",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/E-front-page.png",
+  "thumbnailImage": "/E-front-page.png",
+  "gallery": [
+    { "url": "/E-front-page.png", "caption": "front Page" },
+    { "url": "/E-2nd-page.png", "caption": "2nd Page" },
+    { "url": "/E-3rd-page.png", "caption": "3rd Page" },
+    { "url": "/E-4th-page.png", "caption": "4th page" },
+    { "url": "/E-5th-page.png", "caption": "5th page" },
+     { "url": "/E-last-page.png", "caption": "last page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q4 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://real-estate-pd.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/real-estate-pd",
+  "relatedProjects": [
+    {
+      "slug": "superfinal-master",
+      "title": "SuperFinal Master",
+      "category": "Web Application",
+      "image": "/f-home page.png"
+    },
+    {
+      "slug": "car-rental",
+      "title": "Car Rental",
+      "category": "Website Platform for Car Rentals",
+      "image": "/carRental Home page.png"
+    }
+  ]
 }
 
   
