@@ -139,12 +139,27 @@
         "link": "/2nd.jpg"
       },
       {
+        "name": "2025 HACKATHON ",
+        "issuer": "Level SuperMind Hackathon",
+        "date": "2025",
+        "logo": "/super-hackathon.jpg",
+        "link": "/super-hackathon.jpg"
+      },
+      {
+        "name": "Google Developer",
+        "issuer": "Google GenAI Study Jams",
+        "date": "2024",
+        "logo": "/google-gen-ai.jpg",
+        "link": "/google-gen-ai.jpg"
+      },
+      {
         "name": "Published Research Paper",
         "issuer": "Gradiva Review Journal (UGC-CARE, Scopus Indexed)",
         "date": "2025",
         "logo": "/GRJ 8293.jpg",
         "link": "/GRJ 8293.jpg"
       }
+      
     ],
     "education": [
       {
