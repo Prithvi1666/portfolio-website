@@ -135,13 +135,15 @@
         "name": "Hackathon Finalist (2nd Place)",
         "issuer": "Sheryians Coding School",
         "date": "2024",
-        "logo": "/2nd.jpg"
+        "logo": "/2nd.jpg",
+        "link": "/2nd.jpg"
       },
       {
         "name": "Published Research Paper",
         "issuer": "Gradiva Review Journal (UGC-CARE, Scopus Indexed)",
         "date": "2025",
-        "logo": "/GRJ 8293.jpg"
+        "logo": "/GRJ 8293.jpg",
+        "link": "/GRJ 8293.jpg"
       }
     ],
     "education": [
@@ -164,7 +166,7 @@
   },
   "technicalSkills": {
     "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer Motion"],
-    "development": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Tailwind", "Python", "Java", "SQL", "Git"],
+    "development": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Node.js", "Tailwind", "Python", "Java", "SQL", "MongoDB", "Git"],
     "uxMethods": ["Wireframing", "Prototyping", "Design Systems", "Animations (GSAP)", "User-Centered Design"],
     "softSkills": ["Team Leadership", "Problem-Solving", "Creativity", "Innovation", "Collaboration"]
   }

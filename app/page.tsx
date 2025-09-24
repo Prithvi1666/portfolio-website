@@ -96,7 +96,7 @@ export default function Home() {
             </AnimatedSection>
 
             {/* Credentials Section */}
-            <AnimatedSection animation="fade-up" id="credentials">
+            <AnimatedSection  animation="fade-up" id="credentials">
               <CredentialsSection />
             </AnimatedSection>
 
