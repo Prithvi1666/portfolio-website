@@ -361,6 +361,65 @@ const projects: Project[] = [
       "image": "/carRental Home page.png"
     }
   ]
+},
+
+{
+  "id": 7,
+  "slug": "gocart-main",
+  "title": "GoCart",
+  "category": "E-Commerce Website",
+  "shortDescription": "A sleek online store platform offering gadgets and accessories with a modern, responsive UI.",
+  "description": [
+    "The GoCart Project is an e-commerce web application built to provide users with a seamless shopping experience for gadgets and electronics.",
+    "It features product catalogs, promotional banners, and special offers like “20% OFF” to engage visitors.",
+    "Built with responsiveness in mind, it works smoothly across devices and offers robust navigation and user flows."
+  ],
+  "features": [
+    "Product listing with images, pricing, and categories.",
+    "Promotional banners and discounts (e.g. 20% OFF on first order).",
+    "Responsive and mobile-friendly UI.",
+    "User interaction elements: cart, login, navigation, newsletter subscription.",
+    "Fast performance and smooth browsing experience."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/g-front-page.png",
+  "thumbnailImage": "/g-front-page.png",
+  "gallery": [
+    { "url": "/g-front-page.png", "caption": " font page" },
+    { "url": "/g-2nd-page.png", "caption": " 2nd page" },
+    { "url": "/g-3rd-page.png", "caption": "3rd page" },
+    { "url": "/g-4th-page.png", "caption": "4th page" },
+    { "url": "/g-5th-page.png", "caption": "5th page" },
+    { "url": "/g-6th-page.png", "caption": "6th page" },
+    { "url": "/g-7th-page.png", "caption": "7th page" },
+    { "url": "/g-8th-page.png", "caption": "8th page" },
+    { "url": "/g-footer-page.png", "caption": "footer page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q4 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://gocart-main-pd.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/gocart-main",
+  "relatedProjects": [
+    {
+      "slug": "real-estate-pd",
+      "title": "Real Estate PD",
+      "category": "Real Estate Website",
+      "image": "/E-front-page.png"
+    },
+    {
+      "slug": "superfinal-master",
+      "title": "SuperFinal Master",
+      "category": "Web Application",
+      "image": "/f-home page.png"
+    }
+  ]
 }
 
   
