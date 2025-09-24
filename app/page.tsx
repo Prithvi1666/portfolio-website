@@ -196,7 +196,7 @@ export default function Home() {
           delay={500}
           className="mt-2 sm:mt-8 py-2 sm:py-4 text-center text-xs sm:text-sm text-zinc-500"
         >
-          <p></p>
+          <p>© {new Date().getFullYear()} Prithviraj Daud. All rights reserved.</p>
         </AnimatedSection>
       </div>
 
