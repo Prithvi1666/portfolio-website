@@ -42,7 +42,12 @@ export function CredentialsSection() {
                       <p className="text-xs text-zinc-400">
                         {cert.issuer} • {cert.date}
                       </p>
-                      <a href={cert.link} target="_blank" rel="noopener noreferrer" className="text-cyan-400 text-xs hover:underline">View Certificate</a>
+                      <a href={cert.link}
+                       
+                      target="_blank" 
+                      rel="noopener noreferrer" 
+                      
+                      className="text-cyan-400 text-xs hover:underline">View Certificate</a>
                     </div>
                   </div>
                 ))}

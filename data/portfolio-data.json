@@ -61,11 +61,12 @@
     "interests": ["UI/UX Design", "Full-Stack Development", "Hackathons", "IoT", "Creative Coding"]
   },
   "navigation": [
-    { "label": "Home", "href": "/" },
-    { "label": "Experience", "href": "#experience" },
-    { "label": "Projects", "href": "#projects" },
-    { "label": "Skills", "href": "#skills" },
-    { "label": "Credentials", "href": "#credentials" }
+    { "label": "Home", "target": "_self", "href": "/" },
+    { "label": "Experience", "target": "_self", "href": "#experience" },
+    { "label": "Credentials", "target": "_self", "href": "#credentials" },
+    { "label": "Skills", "target": "_self", "href": "#skills" },
+     { "label": "Projects", "target": "_self", "href": "#projects" },
+    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1jzY2qZhCBz8D4vGsY-7WnOqA-wDylM5D/view?usp=sharing" }
   ],
   "experience": [
     {
