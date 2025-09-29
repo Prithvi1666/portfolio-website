@@ -186,7 +186,7 @@
   },
   "technicalSkills": {
     "design": ["Figma", "Adobe Illustrator", "Photoshop",  "Framer Motion"],
-    "development": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Node.js", "Tailwind", "Python", "Java", "SQL", "MongoDB", "Framer", "Git"],
+    "development": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Node.js", "Tailwind", "Python", "Java", "SQL", "MongoDB", "Framer", "Git", "GitHub"],
     "uxMethods": ["Wireframing", "Prototyping", "Design Systems", "Animations (GSAP)", "User-Centered Design"],
     "softSkills": ["Team Leadership", "Problem-Solving", "Creativity", "Innovation", "Collaboration"]
   }
