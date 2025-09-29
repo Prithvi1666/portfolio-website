@@ -420,7 +420,70 @@ const projects: Project[] = [
       "image": "/f-home page.png"
     }
   ]
+},
+
+{
+  "id": 8,
+  "slug": "job-portal-pd",
+  "title": "Job Portal PD",
+  "category": "Job Portal Website",
+  "shortDescription": "A modern job portal platform enabling job seekers and recruiters to connect through an intuitive interface.",
+  "description": [
+    "The Job Portal PD Project is a web application designed to facilitate connection between employers and job seekers with features like posting, searching, and applying for jobs.",
+    "It provides a searchable listings dashboard with filters for role, experience, and location.",
+    "The UI is responsive, clean, and focused on usability to ensure both recruiters and candidates have a smooth experience."
+  ],
+  "features": [
+    "Job listings with detailed roles, requirements, and application links.",
+    "Search and filter functionality (e.g. by job type, location, experience).",
+    "Responsive design across devices.",
+    "User-friendly interface with clean navigation.",
+    "Fast performance and intuitive user flow."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/j-front-page.png",
+  "thumbnailImage": "/j-front-page.png",
+  "gallery": [
+    { "url": "/j-front-page.png", "caption": "front" },
+    { "url": "/j-2nd-page.png", "caption": "2nd page" },
+    { "url": "/j-3rd-page.png", "caption": "3rd page" },
+    { "url": "/j-4th-page.png", "caption": "4th page" },
+    { "url": "/j-5th-page.png", "caption": "5th page" },
+    { "url": "/j-6th-page.png", "caption": "6th page" },
+    { "url": "/j-7th-page.png", "caption": "7th page" },
+    { "url": "/j-8th-page.png", "caption": "8th page" },
+    { "url": "/j-9th-page.png", "caption": "9th page" },
+    { "url": "/j-10th-page.png", "caption": "10th page" },
+    { "url": "/j-11th-page.png", "caption": "11th page" }
+    
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q4 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://job-portal-pd.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/job-portal-pd",
+  "relatedProjects": [
+    {
+      "slug": "gocart-main",
+      "title": "GoCart",
+      "category": "E-Commerce Website",
+      "image": "/g-front-page.png"
+    },
+    {
+      "slug": "real-estate-pd",
+      "title": "Real Estate PD",
+      "category": "Real Estate Website",
+      "image": "/E-front-page.png"
+    }
+  ]
 }
+
 
   
 
