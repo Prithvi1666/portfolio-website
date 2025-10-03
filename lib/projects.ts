@@ -197,233 +197,6 @@ const projects: Project[] = [
 
   {
   "id": 4,
-  "slug": "background-removal-app",
-  "title": "Background Removal App",
-  "category": "AI Tool",
-  "shortDescription": "A smart AI-powered tool that removes image backgrounds instantly with Dark & Light theme support.",
-  "description": [
-    "The Background Removal App is a web-based AI tool designed to help users remove image backgrounds quickly and efficiently.",
-    "With just a single upload, users can generate a transparent background image without any manual editing.",
-    "The app is built with a clean and responsive UI and supports Dark Mode & Light Mode for a personalized user experience."
-  ],
-  "features": [
-    "AI-powered automatic background removal for uploaded images.",
-    "Dark Mode & Light Mode toggle for flexible viewing.",
-    "Simple and intuitive interface for easy usage.",
-    "Fast, accurate, and responsive performance.",
-    "Accessible on desktop and mobile devices."
-  ],
-  "technologies": [
-    "React.js",
-    "HTML5",
-    "JavaScript",
-    "Tailwind CSS (Dark Mode + Light Mode)",
-    "AI/ML API for Background Removal",
-    "Vercel (Deployment)"
-  ],
-  "coverImage": "/bg-front-page.png",
-  "thumbnailImage": "/bg-front-page.png",
-  "gallery": [
-    { "url": "/bg-front-page.png", "caption": "Home Page" },
-    { "url": "/bg-2nd-page.png", "caption": "2nd-page" },
-    { "url": "/bg-3rd-page.png", "caption": "3rd-page" },
-    { "url": "/bg-4th-page.png", "caption": "4th-page" },
-    { "url": "/bg-5th-page.png", "caption": "5th-page" }
-  ],
-  "client": "Personal Project",
-  "timeline": "2 weeks (Q3 2024)",
-  "role": "Frontend Developer & UI/UX Designer",
-  "liveUrl": "https://bg-removal-alpha-seven.vercel.app/",
-  "githubUrl": "https://github.com/Prithvi1666/bg-removal",
-  "relatedProjects": [
-    {
-      "slug": "agency-ai",
-      "title": "Agency AI",
-      "category": "AI Website",
-      "image": "/ai-home page.png"
-    },
-    {
-      "slug": "car-rental",
-      "title": "Car Rental",
-      "category": "Website Platform for Car Rentals",
-      "image": "/carRental Home page.png"
-    }
-  ]
-},
-
- {
-  "id": 5,
-  "slug": "superfinal-master",
-  "title": "SuperFinal Master",
-  "category": "Web Application",
-  "shortDescription": "A modern and responsive web platform built to deliver smooth user experiences with a clean interface and advanced features.",
-  "description": [
-    "The SuperFinal Master Project is a responsive web application designed to demonstrate modern UI/UX practices and efficient frontend development.",
-    "It provides a professional layout, smooth navigation, and adaptability for multiple use cases.",
-    "The platform emphasizes responsiveness, minimal design, and performance optimization to deliver a seamless experience across devices."
-  ],
-  "features": [
-    "Responsive and mobile-friendly web design.",
-    "Clean and minimal UI with smooth navigation.",
-    "Fast performance powered by React.js and Tailwind CSS.",
-    "Dark Mode & Light Mode theme support.",
-    "Deployed on Vercel for global accessibility."
-  ],
-  "technologies": [
-    "React.js",
-    "HTML5",
-    "JavaScript",
-    "Tailwind CSS (Dark Mode + Light Mode)",
-    "Vercel (Deployment)"
-  ],
-  "coverImage": "/b-front page.png",
-  "thumbnailImage": "/b-front page.png",
-  "gallery": [
-    { "url": "/b-front page.png", "caption": "Home Page" },
-    { "url": "/b-2nd-page.png", "caption": "2nd Page" },
-    { "url": "/b-3rd-page.png", "caption": "3rd page" },
-    { "url": "/b-4th-page.png", "caption": "4th page" },
-    { "url": "/b-5th-page.png", "caption": "5th page" }
-  ],
-  "client": "Personal Project",
-  "timeline": "3 weeks (Q3 2025)",
-  "role": "Frontend Developer & UI/UX Designer",
-  "liveUrl": "https://superfinal-master.vercel.app",
-  "githubUrl": "https://github.com/Prithvi1666/superlevel",
-  "relatedProjects": [
-    {
-      "slug": "agency-ai",
-      "title": "Agency AI",
-      "category": "AI Website",
-      "image": "/ai-home page.png"
-    },
-    {
-      "slug": "background-removal-app",
-      "title": "Background Removal App",
-      "category": "AI Tool",
-      "image": "/bg-home.png"
-    }
-  ]
-},
-
-{
-  "id": 6,
-  "slug": "real-estate",
-  "title": "Real Estate ",
-  "category": "Real Estate Website",
-  "shortDescription": "A clean, responsive real estate platform to browse, search, and view property listings with engaging UI.",
-  "description": [
-    "The Real Estate PD Project is a web application that allows users to explore property listings with detailed information and images.",
-    "It features robust search and filtering options so users can narrow down properties by location, price, and type.",
-    "The UI is designed to be clean and responsive, with seamless navigation across devices and a polished user experience."
-  ],
-  "features": [
-    "Property browsing with listing details and images.",
-    "Search and filters for price, type, and location.",
-    "Responsive UI optimized for desktop and mobile.",
-    "Fast load times and smooth interactions.",
-    "Polished design with attention to usability."
-  ],
-  "technologies": [
-    "React.js",
-    "Vite",
-    "HTML5",
-    "JavaScript",
-    "Tailwind CSS",
-    "Vercel (Deployment)"
-  ],
-  "coverImage": "/E-front-page.png",
-  "thumbnailImage": "/E-front-page.png",
-  "gallery": [
-    { "url": "/E-front-page.png", "caption": "front Page" },
-    { "url": "/E-2nd-page.png", "caption": "2nd Page" },
-    { "url": "/E-3rd-page.png", "caption": "3rd Page" },
-    { "url": "/E-4th-page.png", "caption": "4th page" },
-    { "url": "/E-5th-page.png", "caption": "5th page" },
-     { "url": "/E-last-page.png", "caption": "last page" }
-  ],
-  "client": "Personal Project",
-  "timeline": "3 weeks (Q4 2025)",
-  "role": "Frontend Developer & UI/UX Designer",
-  "liveUrl": "https://real-estate-pd.vercel.app",
-  "githubUrl": "https://github.com/Prithvi1666/real-estate-pd",
-  "relatedProjects": [
-    {
-      "slug": "superfinal-master",
-      "title": "SuperFinal Master",
-      "category": "Web Application",
-      "image": "/f-home page.png"
-    },
-    {
-      "slug": "car-rental",
-      "title": "Car Rental",
-      "category": "Website Platform for Car Rentals",
-      "image": "/carRental Home page.png"
-    }
-  ]
-},
-
-{
-  "id": 7,
-  "slug": "gocart-main",
-  "title": "GoCart",
-  "category": "E-Commerce Website",
-  "shortDescription": "A sleek online store platform offering gadgets and accessories with a modern, responsive UI.",
-  "description": [
-    "The GoCart Project is an e-commerce web application built to provide users with a seamless shopping experience for gadgets and electronics.",
-    "It features product catalogs, promotional banners, and special offers like “20% OFF” to engage visitors.",
-    "Built with responsiveness in mind, it works smoothly across devices and offers robust navigation and user flows."
-  ],
-  "features": [
-    "Product listing with images, pricing, and categories.",
-    "Promotional banners and discounts (e.g. 20% OFF on first order).",
-    "Responsive and mobile-friendly UI.",
-    "User interaction elements: cart, login, navigation, newsletter subscription.",
-    "Fast performance and smooth browsing experience."
-  ],
-  "technologies": [
-    "React.js",
-    "HTML5",
-    "JavaScript",
-    "Tailwind CSS",
-    "Vercel (Deployment)"
-  ],
-  "coverImage": "/g-front-page.png",
-  "thumbnailImage": "/g-front-page.png",
-  "gallery": [
-    { "url": "/g-front-page.png", "caption": " font page" },
-    { "url": "/g-2nd-page.png", "caption": " 2nd page" },
-    { "url": "/g-3rd-page.png", "caption": "3rd page" },
-    { "url": "/g-4th-page.png", "caption": "4th page" },
-    { "url": "/g-5th-page.png", "caption": "5th page" },
-    { "url": "/g-6th-page.png", "caption": "6th page" },
-    { "url": "/g-7th-page.png", "caption": "7th page" },
-    { "url": "/g-8th-page.png", "caption": "8th page" },
-    { "url": "/g-footer-page.png", "caption": "footer page" }
-  ],
-  "client": "Personal Project",
-  "timeline": "3 weeks (Q4 2025)",
-  "role": "Frontend Developer & UI/UX Designer",
-  "liveUrl": "https://gocart-main-pd.vercel.app",
-  "githubUrl": "https://github.com/Prithvi1666/gocart-main",
-  "relatedProjects": [
-    {
-      "slug": "real-estate-pd",
-      "title": "Real Estate PD",
-      "category": "Real Estate Website",
-      "image": "/E-front-page.png"
-    },
-    {
-      "slug": "superfinal-master",
-      "title": "SuperFinal Master",
-      "category": "Web Application",
-      "image": "/f-home page.png"
-    }
-  ]
-},
-
-{
-  "id": 8,
   "slug": "job-portal-pd",
   "title": "Job Portal PD",
   "category": "Job Portal Website",
@@ -482,7 +255,299 @@ const projects: Project[] = [
       "image": "/E-front-page.png"
     }
   ]
+},
+
+
+  {
+  "id": 5,
+  "slug": "background-removal-app",
+  "title": "Background Removal App",
+  "category": "AI Tool",
+  "shortDescription": "A smart AI-powered tool that removes image backgrounds instantly with Dark & Light theme support.",
+  "description": [
+    "The Background Removal App is a web-based AI tool designed to help users remove image backgrounds quickly and efficiently.",
+    "With just a single upload, users can generate a transparent background image without any manual editing.",
+    "The app is built with a clean and responsive UI and supports Dark Mode & Light Mode for a personalized user experience."
+  ],
+  "features": [
+    "AI-powered automatic background removal for uploaded images.",
+    "Dark Mode & Light Mode toggle for flexible viewing.",
+    "Simple and intuitive interface for easy usage.",
+    "Fast, accurate, and responsive performance.",
+    "Accessible on desktop and mobile devices."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS (Dark Mode + Light Mode)",
+    "AI/ML API for Background Removal",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/bg-front-page.png",
+  "thumbnailImage": "/bg-front-page.png",
+  "gallery": [
+    { "url": "/bg-front-page.png", "caption": "Home Page" },
+    { "url": "/bg-2nd-page.png", "caption": "2nd-page" },
+    { "url": "/bg-3rd-page.png", "caption": "3rd-page" },
+    { "url": "/bg-4th-page.png", "caption": "4th-page" },
+    { "url": "/bg-5th-page.png", "caption": "5th-page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "2 weeks (Q3 2024)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://bg-removal-alpha-seven.vercel.app/",
+  "githubUrl": "https://github.com/Prithvi1666/bg-removal",
+  "relatedProjects": [
+    {
+      "slug": "agency-ai",
+      "title": "Agency AI",
+      "category": "AI Website",
+      "image": "/ai-home page.png"
+    },
+    {
+      "slug": "car-rental",
+      "title": "Car Rental",
+      "category": "Website Platform for Car Rentals",
+      "image": "/carRental Home page.png"
+    }
+  ]
+},
+
+ {
+  "id": 6,
+  "slug": "superfinal-master",
+  "title": "SuperFinal Master",
+  "category": "Web Application",
+  "shortDescription": "A modern and responsive web platform built to deliver smooth user experiences with a clean interface and advanced features.",
+  "description": [
+    "The SuperFinal Master Project is a responsive web application designed to demonstrate modern UI/UX practices and efficient frontend development.",
+    "It provides a professional layout, smooth navigation, and adaptability for multiple use cases.",
+    "The platform emphasizes responsiveness, minimal design, and performance optimization to deliver a seamless experience across devices."
+  ],
+  "features": [
+    "Responsive and mobile-friendly web design.",
+    "Clean and minimal UI with smooth navigation.",
+    "Fast performance powered by React.js and Tailwind CSS.",
+    "Dark Mode & Light Mode theme support.",
+    "Deployed on Vercel for global accessibility."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS (Dark Mode + Light Mode)",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/b-front page.png",
+  "thumbnailImage": "/b-front page.png",
+  "gallery": [
+    { "url": "/b-front page.png", "caption": "Home Page" },
+    { "url": "/b-2nd-page.png", "caption": "2nd Page" },
+    { "url": "/b-3rd-page.png", "caption": "3rd page" },
+    { "url": "/b-4th-page.png", "caption": "4th page" },
+    { "url": "/b-5th-page.png", "caption": "5th page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q3 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://superfinal-master.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/superlevel",
+  "relatedProjects": [
+    {
+      "slug": "agency-ai",
+      "title": "Agency AI",
+      "category": "AI Website",
+      "image": "/ai-home page.png"
+    },
+    {
+      "slug": "background-removal-app",
+      "title": "Background Removal App",
+      "category": "AI Tool",
+      "image": "/bg-home.png"
+    }
+  ]
+},
+
+{
+  "id": 7,
+  "slug": "real-estate",
+  "title": "Real Estate ",
+  "category": "Real Estate Website",
+  "shortDescription": "A clean, responsive real estate platform to browse, search, and view property listings with engaging UI.",
+  "description": [
+    "The Real Estate PD Project is a web application that allows users to explore property listings with detailed information and images.",
+    "It features robust search and filtering options so users can narrow down properties by location, price, and type.",
+    "The UI is designed to be clean and responsive, with seamless navigation across devices and a polished user experience."
+  ],
+  "features": [
+    "Property browsing with listing details and images.",
+    "Search and filters for price, type, and location.",
+    "Responsive UI optimized for desktop and mobile.",
+    "Fast load times and smooth interactions.",
+    "Polished design with attention to usability."
+  ],
+  "technologies": [
+    "React.js",
+    "Vite",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/E-front-page.png",
+  "thumbnailImage": "/E-front-page.png",
+  "gallery": [
+    { "url": "/E-front-page.png", "caption": "front Page" },
+    { "url": "/E-2nd-page.png", "caption": "2nd Page" },
+    { "url": "/E-3rd-page.png", "caption": "3rd Page" },
+    { "url": "/E-4th-page.png", "caption": "4th page" },
+    { "url": "/E-5th-page.png", "caption": "5th page" },
+     { "url": "/E-last-page.png", "caption": "last page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q4 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://real-estate-pd.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/real-estate-pd",
+  "relatedProjects": [
+    {
+      "slug": "superfinal-master",
+      "title": "SuperFinal Master",
+      "category": "Web Application",
+      "image": "/f-home page.png"
+    },
+    {
+      "slug": "car-rental",
+      "title": "Car Rental",
+      "category": "Website Platform for Car Rentals",
+      "image": "/carRental Home page.png"
+    }
+  ]
+},
+
+{
+  "id": 8,
+  "slug": "gocart-main",
+  "title": "GoCart",
+  "category": "E-Commerce Website",
+  "shortDescription": "A sleek online store platform offering gadgets and accessories with a modern, responsive UI.",
+  "description": [
+    "The GoCart Project is an e-commerce web application built to provide users with a seamless shopping experience for gadgets and electronics.",
+    "It features product catalogs, promotional banners, and special offers like “20% OFF” to engage visitors.",
+    "Built with responsiveness in mind, it works smoothly across devices and offers robust navigation and user flows."
+  ],
+  "features": [
+    "Product listing with images, pricing, and categories.",
+    "Promotional banners and discounts (e.g. 20% OFF on first order).",
+    "Responsive and mobile-friendly UI.",
+    "User interaction elements: cart, login, navigation, newsletter subscription.",
+    "Fast performance and smooth browsing experience."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/g-front-page.png",
+  "thumbnailImage": "/g-front-page.png",
+  "gallery": [
+    { "url": "/g-front-page.png", "caption": " font page" },
+    { "url": "/g-2nd-page.png", "caption": " 2nd page" },
+    { "url": "/g-3rd-page.png", "caption": "3rd page" },
+    { "url": "/g-4th-page.png", "caption": "4th page" },
+    { "url": "/g-5th-page.png", "caption": "5th page" },
+    { "url": "/g-6th-page.png", "caption": "6th page" },
+    { "url": "/g-7th-page.png", "caption": "7th page" },
+    { "url": "/g-8th-page.png", "caption": "8th page" },
+    { "url": "/g-footer-page.png", "caption": "footer page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q4 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://gocart-main-pd.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/gocart-main",
+  "relatedProjects": [
+    {
+      "slug": "real-estate-pd",
+      "title": "Real Estate PD",
+      "category": "Real Estate Website",
+      "image": "/E-front-page.png"
+    },
+    {
+      "slug": "superfinal-master",
+      "title": "SuperFinal Master",
+      "category": "Web Application",
+      "image": "/f-home page.png"
+    }
+  ]
+},
+
+
+{
+  "id": 9,
+  "slug": "quick-cart",
+  "title": "QuickCart",
+  "category": "E-Commerce Website",
+  "shortDescription": "A sleek e-commerce platform offering exclusive deals and responsive shopping experience.",
+  "description": [
+    "The QuickCart Project is an e-commerce web application focused on gadget and electronics sales with a polished UI and promotional offers.",
+    "It features sliding banners, featured products, special discount offers (e.g. 30% off), and a clean layout to showcase products attractively.",
+    "The site is designed for fast browsing, intuitive product display, and smooth user experience across devices."
+  ],
+  "features": [
+    "Sliding promotional banners with dynamic offers.",
+    "Featured product listings with images, descriptions, and buy links.",
+    "Responsive and mobile-friendly UI.",
+    "Special discount sections (e.g. “Limited Time Offer 30% Off”).",
+    "Navigation menu with Home, Shop, About, Contact, plus dashboard access."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/q-front-page.png",
+  "thumbnailImage": "/q-front-page.png",
+  "gallery": [
+    { "url": "/q-front-page.png", "caption": "front page" },
+    { "url": "/q-2nd-page .png", "caption": "2nd page" },
+    { "url": "/q-3rd-page.png", "caption": "3rd page" },
+    { "url": "/q-4th-page.png", "caption": "4th page" },
+    { "url": "/q-5th-page.png", "caption": "5th page" },
+    { "url": "/q-6th-page.png", "caption": "6th page" },
+    { "url": "/q-7th-page.png", "caption": "7th page" },
+    { "url": "/q-8th-page.png", "caption": "8th page" },
+    { "url": "/q-9th-page.png", "caption": "9th page" },
+    { "url": "/q-10th-page.png", "caption": "10th page"}
+
+  ],
+  "client": "Personal Project",
+  "timeline": "3 weeks (Q4 2025)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://quick-cart-liard-ten.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/QuickCart",
+  "relatedProjects": [
+    {
+      "slug": "job-portal-pd",
+      "title": "Job Portal PD",
+      "category": "Job Portal Website",
+      "image": "/j-front-page.png"
+    },
+    {
+      "slug": "gocart-main",
+      "title": "GoCart",
+      "category": "E-Commerce Website",
+      "image": "/g-front-page.png"
+    }
+  ]
 }
+
+
 
 
   
