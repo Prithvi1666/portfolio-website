@@ -6,6 +6,7 @@ interface ExperienceCardProps {
   company: string
   period: string
   description: string
+  website: string
   achievements: string[]
   technologies: string[]
 }
@@ -15,6 +16,7 @@ export function ExperienceCard({
   company,
   period,
   description,
+  website,
   achievements,
   technologies,
 }: ExperienceCardProps) {
@@ -31,6 +33,19 @@ export function ExperienceCard({
       </div>
 
       <p className="text-sm text-zinc-300">{description}</p>
+      {website && (
+        <p className="text-sm">
+          Website:{" "}
+          <a
+            href={website}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-cyan-400 hover:underline break-all"
+          >
+            {website}
+          </a>
+        </p>
+      )}
 
       <div className="space-y-3">
         <h5 className="text-sm font-medium text-zinc-400">Key Achievements</h5>

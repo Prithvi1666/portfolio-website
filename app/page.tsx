@@ -58,6 +58,7 @@ export default function Home() {
                           company={experience.company}
                           period={experience.period}
                           description={experience.description}
+                          website={experience.website}
                           achievements={experience.achievements}
                           technologies={experience.technologies}
                         />
@@ -84,7 +85,7 @@ export default function Home() {
                           title={project.title}
                           company={project.company}
                           period={project.period}
-                          description={project.description}
+                          description={project.description}                         
                           achievements={project.achievements}
                           technologies={project.technologies}
                         />
