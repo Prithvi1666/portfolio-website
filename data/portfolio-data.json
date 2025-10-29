@@ -180,16 +180,17 @@
       "UI/UX Design",
       "Frontend Development",
       "Full-Stack Projects",
+      "Software Developer",
       "Design Systems",
-      "Prototyping",
       "Problem Solving",
       "Team Collaboration"
     ]
   },
   "technicalSkills": {
-    "design": ["Figma", "Adobe Illustrator", "Photoshop",  "Framer Motion"],
-    "development": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Node.js", "Tailwind", "Python", "Java", "SQL", "MongoDB", "Framer", "Git", "GitHub"],
-    "uxMethods": ["Wireframing", "Prototyping", "Design Systems", "Animations (GSAP)", "User-Centered Design"],
-    "softSkills": ["Team Leadership", "Problem-Solving", "Creativity", "Innovation", "Collaboration"]
+    "frontend": ["React.js", "Next.js", "JavaScript (ES6+)", "HTML", "CSS", "TailwindCSS", "GSAP", "Framer Motion"],
+    "backend": ["Node.js", "Express.js", "MongoDB", "SQL", "Mongoose", "JWT Authentication", "RESTful APIs"],
+    "programming": ["Python", "Java", "C++", "Data Structures & Algorithms (DSA)"],
+    "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer", "Canva"],
+    "softSkills": ["Problem-Solving", "Creativity", "Innovation", "Team Player", "Adaptability"]
   }
 }

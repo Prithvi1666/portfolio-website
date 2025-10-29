@@ -113,9 +113,9 @@ export default function Home() {
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
                     <AnimatedSection animation="slide-right" delay={100}>
                       <div className="space-y-3">
-                        <h4 className="text-sm font-medium text-zinc-400">Design</h4>
+                        <h4 className="text-sm font-medium text-zinc-400">Frontend</h4>
                         <div className="flex flex-wrap gap-2">
-                          {technicalSkills.design.map((skill, index) => (
+                          {technicalSkills.frontend.map((skill, index) => (
                             <SkillTagComponent key={index}>{skill}</SkillTagComponent>
                           ))}
                         </div>
@@ -124,9 +124,9 @@ export default function Home() {
 
                     <AnimatedSection animation="slide-left" delay={200}>
                       <div className="space-y-3">
-                        <h4 className="text-sm font-medium text-zinc-400">Development</h4>
+                        <h4 className="text-sm font-medium text-zinc-400">Backend</h4>
                         <div className="flex flex-wrap gap-2">
-                          {technicalSkills.development.map((skill, index) => (
+                          {technicalSkills.backend.map((skill, index) => (
                             <SkillTagComponent key={index}>{skill}</SkillTagComponent>
                           ))}
                         </div>
@@ -135,9 +135,9 @@ export default function Home() {
 
                     <AnimatedSection animation="slide-right" delay={300}>
                       <div className="space-y-3">
-                        <h4 className="text-sm font-medium text-zinc-400">UX Methods</h4>
+                        <h4 className="text-sm font-medium text-zinc-400">Programming</h4>
                         <div className="flex flex-wrap gap-2">
-                          {technicalSkills.uxMethods.map((skill, index) => (
+                          {technicalSkills.programming.map((skill, index) => (
                             <SkillTagComponent key={index}>{skill}</SkillTagComponent>
                           ))}
                         </div>
@@ -145,6 +145,17 @@ export default function Home() {
                     </AnimatedSection>
 
                     <AnimatedSection animation="slide-left" delay={400}>
+                      <div className="space-y-3">
+                        <h4 className="text-sm font-medium text-zinc-400">Design</h4>
+                        <div className="flex flex-wrap gap-2">
+                          {technicalSkills.design.map((skill, index) => (
+                            <SkillTagComponent key={index}>{skill}</SkillTagComponent>
+                          ))}
+                        </div>
+                      </div>
+                    </AnimatedSection>
+                     
+                     <AnimatedSection animation="slide-right" delay={500}>
                       <div className="space-y-3">
                         <h4 className="text-sm font-medium text-zinc-400">Soft Skills</h4>
                         <div className="flex flex-wrap gap-2">
@@ -154,6 +165,7 @@ export default function Home() {
                         </div>
                       </div>
                     </AnimatedSection>
+
                   </div>
                 </CardContent>
               </Card>
