@@ -26,7 +26,7 @@
       },
        {
         "platform": "Resume",
-        "url": "https://drive.google.com/file/d/1UpKmec8FMkjbMOUsaf7tjlD487a8yeTs/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/18e1zplyE5uz58vPLqU89wSLC51-6Vxan/view?usp=sharing",
         "icon": "FileUser"
       }
     ]
@@ -66,7 +66,7 @@
     { "label": "Credentials", "target": "_self", "href": "#credentials" },
     { "label": "Skills", "target": "_self", "href": "#skills" },
      { "label": "Projects", "target": "_self", "href": "#projects" },
-    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1UpKmec8FMkjbMOUsaf7tjlD487a8yeTs/view?usp=sharing" }
+    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/18e1zplyE5uz58vPLqU89wSLC51-6Vxan/view?usp=sharing" }
   ],
   "experience": [
     {
