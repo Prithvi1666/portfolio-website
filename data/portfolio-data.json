@@ -26,7 +26,7 @@
       },
        {
         "platform": "Resume",
-        "url": "https://drive.google.com/file/d/18e1zplyE5uz58vPLqU89wSLC51-6Vxan/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1IPiD83qLQAq7F68ph2DaJdnQXeNM-kYF/view?usp=sharing",
         "icon": "FileUser"
       }
     ]
@@ -54,7 +54,7 @@
       {
         "name": "Hindi",
         "proficiency": "Fluent",
-        "level": 95,
+        "level": 90,
         "flag": "🇮🇳"
       }
     ],
@@ -66,7 +66,7 @@
     { "label": "Credentials", "target": "_self", "href": "#credentials" },
     { "label": "Skills", "target": "_self", "href": "#skills" },
      { "label": "Projects", "target": "_self", "href": "#projects" },
-    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/18e1zplyE5uz58vPLqU89wSLC51-6Vxan/view?usp=sharing" }
+    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1IPiD83qLQAq7F68ph2DaJdnQXeNM-kYF/view?usp=sharing" }
   ],
   "experience": [
     {
@@ -188,7 +188,7 @@
   },
   "technicalSkills": {
     "frontend": ["React.js", "Next.js", "JavaScript (ES6+)", "HTML", "CSS", "TailwindCSS", "GSAP", "Framer Motion"],
-    "backend": ["Node.js", "Express.js", "MongoDB", "SQL", "Mongoose", "JWT Authentication", "RESTful APIs"],
+    "backend": ["Node.js", "Express.js", "MongoDB", "SQL", "Mongoose", "RESTful APIs"],
     "programming": ["Python", "Java", "C++", "Data Structures & Algorithms (DSA)"],
     "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer", "Canva"],
     "softSkills": ["Problem-Solving", "Creativity", "Innovation", "Team Player", "Adaptability"]
