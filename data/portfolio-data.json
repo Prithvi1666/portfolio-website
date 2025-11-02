@@ -26,7 +26,7 @@
       },
        {
         "platform": "Resume",
-        "url": "https://drive.google.com/file/d/1IQ4u3ndUIGxvJP6gxgsYr9igXV8sF_TH/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1WjioWLxVPQzDmrhy-u3k5fmSSw7aC96R/view?usp=sharing",
         "icon": "FileUser"
       }
     ]
@@ -66,22 +66,10 @@
     { "label": "Credentials", "target": "_self", "href": "#credentials" },
     { "label": "Skills", "target": "_self", "href": "#skills" },
      { "label": "Projects", "target": "_self", "href": "#projects" },
-    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1IQ4u3ndUIGxvJP6gxgsYr9igXV8sF_TH/view?usp=sharing" }
+    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1WjioWLxVPQzDmrhy-u3k5fmSSw7aC96R/view?usp=sharing" }
   ],
   "experience": [
-    {
-      "title": "Electronics Engineer Intern",
-      "company": "DRS Group of Industries",
-      "period": "2023",
-      "description": "Worked at DRS Group of Industries as an Electronics Engineer. Gained hands-on experience in LED light manufacturing, testing, and quality control. Contributed to PCB design, circuit analysis, and troubleshooting, ensuring product efficiency and reliability. Collaborated with the team to enhance production processes and maintain quality standards. Additionally, handled and maintained the company’s official website to ensure smooth functionality and up-to-date product information.",
-      "website": "https://drs-led-lights4.webnode.page",
-      "achievements": [
-        "Hands-on experience in production and quality testing",
-        "Collaborated to improve production processes",
-        "Enhanced troubleshooting and circuit design skills"
-      ],
-      "technologies": ["PCB Design", "Circuit Analysis", "Testing"]
-    },
+
     {
       "title": "Team Lead, Frontend Developer & Animator",
       "company": "Reimagine Hackathon – Sheryians Coding School",
@@ -93,7 +81,22 @@
         "Showcased strong leadership and technical expertise"
       ],
       "technologies": ["Figma", "Tailwind CSS", "JavaScript", "GSAP"]
+    },
+
+    {
+      "title": "Electronics Engineer Intern",
+     "company": "DRS Group of Industries",
+     "period": "2023",
+     "website": "https://drs-led-lights4.webnode.page",
+     "description": "Worked as an Electronics Engineer Intern at DRS Group of Industries, gaining practical experience in LED light manufacturing, testing, and quality control. Contributed to PCB design, circuit analysis, and troubleshooting to ensure product efficiency and reliability. Also handled and maintained the company’s official website, improving performance and keeping product information up to date. Played a key role in enhancing overall workflow and supporting production improvements.",
+     "achievements": [
+     "Gained hands-on experience in LED manufacturing and quality testing processes",
+     "Collaborated with engineers to streamline workflow and maintain product reliability",
+     "Revamped the company’s website, strengthening its digital presence and customer engagement"
+      ],
+      "technologies": ["PCB Design", "Circuit Analysis", "Testing"]
     }
+    
   ],
   "finalproject": [
     {
@@ -189,7 +192,7 @@
   "technicalSkills": {
     "frontend": ["React.js", "Next.js", "JavaScript (ES6+)", "HTML", "CSS", "TailwindCSS", "GSAP", "Framer Motion"],
     "backend": ["Node.js", "Express.js", "MongoDB", "SQL", "Mongoose", "RESTful APIs"],
-    "programming": ["Python", "Java", "C++", "Data Structures & Algorithms (DSA)"],
+    "programming": ["Python", "Java", "Data Structures & Algorithms (DSA)"],
     "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer", "Canva"],
     "softSkills": ["Problem-Solving", "Creativity", "Innovation", "Team Player", "Adaptability"]
   }
