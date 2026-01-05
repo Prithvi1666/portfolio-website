@@ -139,6 +139,15 @@
       "link": "#"
     }
   ],
+  
+
+  "technicalSkills": {
+    "frontend": ["React.js", "Next.js", "JavaScript (ES6+)", "HTML", "CSS", "TailwindCSS", "GSAP", "Framer Motion"],
+    "backend": ["Node.js", "Express.js", "MongoDB", "SQL", "Mongoose", "RESTful APIs"],
+    "programming": ["Python", "Java", "Data Structures & Algorithms (DSA)"],
+    "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer", "Canva"],
+    "softSkills": ["Problem-Solving", "Creativity", "Innovation", "Team Player", "Adaptability"]
+  },
   "credentials": {
     "certifications": [
       {
@@ -188,12 +197,9 @@
       "Problem Solving",
       "Team Collaboration"
     ]
-  },
-  "technicalSkills": {
-    "frontend": ["React.js", "Next.js", "JavaScript (ES6+)", "HTML", "CSS", "TailwindCSS", "GSAP", "Framer Motion"],
-    "backend": ["Node.js", "Express.js", "MongoDB", "SQL", "Mongoose", "RESTful APIs"],
-    "programming": ["Python", "Java", "Data Structures & Algorithms (DSA)"],
-    "design": ["Figma", "Adobe Illustrator", "Photoshop", "Framer", "Canva"],
-    "softSkills": ["Problem-Solving", "Creativity", "Innovation", "Team Player", "Adaptability"]
   }
+
+
+
+
 }

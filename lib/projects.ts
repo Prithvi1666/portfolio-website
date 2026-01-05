@@ -257,62 +257,72 @@ const projects: Project[] = [
   ]
 },
 
-
-  {
+{
   "id": 5,
-  "slug": "background-removal-app",
-  "title": "Background Removal App",
-  "category": "AI Tool",
-  "shortDescription": "A smart AI-powered tool that removes image backgrounds instantly with Dark & Light theme support.",
+  "slug": "flip-earrn",
+  "title": "Flip Earrn",
+  "category": "E-Commerce / Promo Website",
+  "shortDescription": "A promotional e-commerce platform featuring deals, featured products, and engaging UI for quick browsing.",
   "description": [
-    "The Background Removal App is a web-based AI tool designed to help users remove image backgrounds quickly and efficiently.",
-    "With just a single upload, users can generate a transparent background image without any manual editing.",
-    "The app is built with a clean and responsive UI and supports Dark Mode & Light Mode for a personalized user experience."
+    "The Flip Earrn Project is an e-commerce style web application that showcases featured products with attractive deals and offers.",
+    "It includes highlighted product sections, promotional banners, and a clean modern layout for user engagement.",
+    "The platform focuses on delivering a smooth, responsive experience with intuitive navigation for desktop and mobile users."
   ],
   "features": [
-    "AI-powered automatic background removal for uploaded images.",
-    "Dark Mode & Light Mode toggle for flexible viewing.",
-    "Simple and intuitive interface for easy usage.",
-    "Fast, accurate, and responsive performance.",
-    "Accessible on desktop and mobile devices."
+    "Attractive promotional banners and featured product listings.",
+    "Responsive UI optimized for mobile and desktop.",
+    "Clean and minimal layout with intuitive navigation.",
+    "Special deal sections to highlight offers and promotions.",
+    "Fast performance and seamless browsing experience."
   ],
   "technologies": [
     "React.js",
     "HTML5",
     "JavaScript",
-    "Tailwind CSS (Dark Mode + Light Mode)",
-    "AI/ML API for Background Removal",
+    "Tailwind CSS",
     "Vercel (Deployment)"
   ],
-  "coverImage": "/bg-front-page.png",
-  "thumbnailImage": "/bg-front-page.png",
+  "coverImage": "/fe-1.png",
+  "thumbnailImage": "/fe-1.png",
   "gallery": [
-    { "url": "/bg-front-page.png", "caption": "Home Page" },
-    { "url": "/bg-2nd-page.png", "caption": "2nd-page" },
-    { "url": "/bg-3rd-page.png", "caption": "3rd-page" },
-    { "url": "/bg-4th-page.png", "caption": "4th-page" },
-    { "url": "/bg-5th-page.png", "caption": "5th-page" }
+    { "url": "/fe-1.png", "caption": "1" },
+    { "url": "/fe-2.png", "caption": "2" },
+    { "url": "/fe-3.png", "caption": "3" },
+    { "url": "/fe-4.png", "caption": "4" },
+    { "url": "/fe-5.png", "caption": "5" },
+    { "url": "/fe-6.png", "caption": "6" },
+    { "url": "/fe-7.png", "caption": "7" },
+    { "url": "/fe-8.png", "caption": "8" },
+    { "url": "/fe-9.png", "caption": "9" },
+    { "url": "/fe-10.png", "caption": "10" },
+    { "url": "/fe-11.png", "caption": "11" },
+    { "url": "/fe-12.png", "caption": "12" },
+    { "url": "/fe-13.png", "caption": "13" },
+    { "url": "/fe-14.png", "caption": "14" },
+    { "url": "/fe-15.png", "caption": "15" }
+
   ],
   "client": "Personal Project",
-  "timeline": "2 weeks (Q3 2024)",
+  "timeline": "3 weeks (Q4 2025)",
   "role": "Frontend Developer & UI/UX Designer",
-  "liveUrl": "https://bg-removal-alpha-seven.vercel.app/",
-  "githubUrl": "https://github.com/Prithvi1666/bg-removal",
+  "liveUrl": "https://flip-earrn.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/flip-earrn",
   "relatedProjects": [
     {
-      "slug": "agency-ai",
-      "title": "Agency AI",
-      "category": "AI Website",
-      "image": "/ai-home page.png"
+      "slug": "quick-cart",
+      "title": "QuickCart",
+      "category": "E-Commerce Website",
+      "image": "/quickcart-home.png"
     },
     {
-      "slug": "car-rental",
-      "title": "Car Rental",
-      "category": "Website Platform for Car Rentals",
-      "image": "/carRental Home page.png"
+      "slug": "job-portal-pd",
+      "title": "Job Portal PD",
+      "category": "Job Portal Website",
+      "image": "/job-portal-home.png"
     }
   ]
 },
+  
 
  {
   "id": 6,
@@ -545,9 +555,63 @@ const projects: Project[] = [
       "image": "/g-front-page.png"
     }
   ]
+},
+
+{
+  "id": 10,
+  "slug": "background-removal-app",
+  "title": "Background Removal App",
+  "category": "AI Tool",
+  "shortDescription": "A smart AI-powered tool that removes image backgrounds instantly with Dark & Light theme support.",
+  "description": [
+    "The Background Removal App is a web-based AI tool designed to help users remove image backgrounds quickly and efficiently.",
+    "With just a single upload, users can generate a transparent background image without any manual editing.",
+    "The app is built with a clean and responsive UI and supports Dark Mode & Light Mode for a personalized user experience."
+  ],
+  "features": [
+    "AI-powered automatic background removal for uploaded images.",
+    "Dark Mode & Light Mode toggle for flexible viewing.",
+    "Simple and intuitive interface for easy usage.",
+    "Fast, accurate, and responsive performance.",
+    "Accessible on desktop and mobile devices."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS (Dark Mode + Light Mode)",
+    "AI/ML API for Background Removal",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/bg-front-page.png",
+  "thumbnailImage": "/bg-front-page.png",
+  "gallery": [
+    { "url": "/bg-front-page.png", "caption": "Home Page" },
+    { "url": "/bg-2nd-page.png", "caption": "2nd-page" },
+    { "url": "/bg-3rd-page.png", "caption": "3rd-page" },
+    { "url": "/bg-4th-page.png", "caption": "4th-page" },
+    { "url": "/bg-5th-page.png", "caption": "5th-page" }
+  ],
+  "client": "Personal Project",
+  "timeline": "2 weeks (Q3 2024)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://bg-removal-alpha-seven.vercel.app/",
+  "githubUrl": "https://github.com/Prithvi1666/bg-removal",
+  "relatedProjects": [
+    {
+      "slug": "agency-ai",
+      "title": "Agency AI",
+      "category": "AI Website",
+      "image": "/ai-home page.png"
+    },
+    {
+      "slug": "car-rental",
+      "title": "Car Rental",
+      "category": "Website Platform for Car Rentals",
+      "image": "/carRental Home page.png"
+    }
+  ]
 }
-
-
 
 
   
