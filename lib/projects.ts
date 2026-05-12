@@ -32,7 +32,68 @@ export interface Project {
 
 const projects: Project[] = [
   {
-    id: 1,
+  "id": 1,
+  "slug": "ai-resume-builder",
+  "title": "AI Resume Builder",
+  "category": "AI Web Application",
+  "shortDescription": "An AI-powered resume builder platform that helps users create professional resumes quickly with modern templates and smart features.",
+  "description": [
+    "The AI Resume Builder Project is a modern web application designed to simplify the process of creating professional resumes using AI-powered assistance.",
+    "Users can easily enter their details, select templates, and generate clean, ATS-friendly resumes in just a few steps.",
+    "The platform focuses on user experience with responsive layouts, smooth navigation, and an intuitive interface optimized for desktop and mobile devices."
+  ],
+  "features": [
+    "AI-powered resume generation and customization.",
+    "Professional and ATS-friendly resume templates.",
+    "Responsive design optimized for all devices.",
+    "Easy-to-use form interface for quick resume creation.",
+    "Fast and smooth performance with modern UI/UX."
+  ],
+  "technologies": [
+    "React.js",
+    "HTML5",
+    "JavaScript",
+    "Tailwind CSS",
+    "AI Integration",
+    "Vercel (Deployment)"
+  ],
+  "coverImage": "/Ai-resume-1.png",
+  "thumbnailImage": "/Ai-resume-1.png",
+  "gallery": [
+    { "url": "/Ai-resume-1.png", "caption": "Home / Landing Page" },
+    { "url": "/Ai-resume-2.png", "caption": "Resume Builder Interface" },
+    { "url": "/Ai-resume-3.png", "caption": "Resume Template Section" },
+    { "url": "/Ai-resume-4.png", "caption": "Resume Preview Page" },
+    { "url": "/Ai-resume-5.png", "caption": "Responsive Mobile View" },
+    { "url": "/Ai-resume-6.png", "caption": "Responsive Mobile View" },
+    { "url": "/Ai-resume-7.png", "caption": "Responsive Mobile View" },
+    { "url": "/Ai-resume-8.png", "caption": "Responsive Mobile View" },
+    { "url": "/Ai-resume-9.png", "caption": "Responsive Mobile View" },
+    { "url": "/Ai-resume-10.png", "caption": "Responsive Mobile View" },
+    { "url": "/Ai-resume-11.png", "caption": "Responsive Mobile View" }
+  ],
+  "client": "Personal Project",
+  "timeline": "1 month (Q1 2026)",
+  "role": "Frontend Developer & UI/UX Designer",
+  "liveUrl": "https://ai-resume-builder-pd.vercel.app",
+  "githubUrl": "https://github.com/Prithvi1666/ai-resume-builder",
+  "relatedProjects": [
+    {
+      "slug": "agency-ai",
+      "title": "Agency AI",
+      "category": "AI Website",
+      "image": "/ai-home page.png"
+    },
+    {
+      "slug": "background-removal-app",
+      "title": "Background Removal App",
+      "category": "AI Tool",
+      "image": "/bg-home.png"
+    }
+  ]
+},
+  {
+    id: 2,
     slug: "car-rental",
     title: "Car Rental",
     category: "Website Platform",
@@ -86,7 +147,7 @@ const projects: Project[] = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     slug: "finance-dashboard",
     title: "funngro",
     category: "Web Application-ByteBrush Reimagine",
@@ -141,7 +202,7 @@ const projects: Project[] = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     slug: "Agency-AI",
     title: "Agency AI",
     category: "Ai website",
@@ -196,7 +257,7 @@ const projects: Project[] = [
   },
 
   {
-  "id": 4,
+  "id": 5,
   "slug": "job-portal-pd",
   "title": "Job Portal PD",
   "category": "Job Portal Website",
@@ -258,7 +319,7 @@ const projects: Project[] = [
 },
 
 {
-  "id": 5,
+  "id": 6,
   "slug": "flip-earrn",
   "title": "Flip Earrn",
   "category": "E-Commerce / Promo Website",
@@ -325,7 +386,7 @@ const projects: Project[] = [
   
 
  {
-  "id": 6,
+  "id": 7,
   "slug": "superfinal-master",
   "title": "SuperFinal Master",
   "category": "Web Application",
@@ -380,7 +441,7 @@ const projects: Project[] = [
 },
 
 {
-  "id": 7,
+  "id": 8,
   "slug": "real-estate",
   "title": "Real Estate ",
   "category": "Real Estate Website",
@@ -437,7 +498,7 @@ const projects: Project[] = [
 },
 
 {
-  "id": 8,
+  "id": 9,
   "slug": "gocart-main",
   "title": "GoCart",
   "category": "E-Commerce Website",
@@ -497,7 +558,7 @@ const projects: Project[] = [
 
 
 {
-  "id": 9,
+  "id": 10,
   "slug": "quick-cart",
   "title": "QuickCart",
   "category": "E-Commerce Website",
@@ -558,7 +619,7 @@ const projects: Project[] = [
 },
 
 {
-  "id": 10,
+  "id": 11,
   "slug": "background-removal-app",
   "title": "Background Removal App",
   "category": "AI Tool",
