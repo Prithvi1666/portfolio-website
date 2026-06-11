@@ -7,7 +7,7 @@
     "name": "Prithviraj Daud",
     "title": "Software Developer ",
     "location": "Ch.Smabhaji Nagar, Maharashtra, India",
-    "avatar": "/IMG_1821.jpg",
+    "avatar": "/Profile.jpg",
     "email": "prithvirajdaud143@gmail.com",
     "phone": "+91 8177932219",
     "workingHours": "Flexible",
@@ -26,7 +26,7 @@
       },
        {
         "platform": "Resume",
-        "url": "https://drive.google.com/file/d/1LDPBzEpqOU01aZwCObxeqDXeyXjepgZJ/view?usp=drive_link",
+        "url": "https://drive.google.com/file/d/1oxloqqnUGAYtqNeJ4YDpaeByzY4yjfbp/view?usp=sharing",
         "icon": "FileUser"
       }
     ]
@@ -66,7 +66,7 @@
     { "label": "Credentials", "target": "_self", "href": "#credentials" },
     { "label": "Skills", "target": "_self", "href": "#skills" },
      { "label": "Projects", "target": "_self", "href": "#projects" },
-    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1LDPBzEpqOU01aZwCObxeqDXeyXjepgZJ/view?usp=drive_link" }
+    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1oxloqqnUGAYtqNeJ4YDpaeByzY4yjfbp/view?usp=sharing" }
   ],
   "experience": [
 
@@ -80,21 +80,22 @@
         "Redesigned Adobe Firefly website with animations",
         "Showcased strong leadership and technical expertise"
       ],
-      "technologies": ["Figma", "Tailwind CSS", "JavaScript", "GSAP"]
+      "technologies": ["Figma", "Tailwind CSS", "JavaScript","React.Js", "GSAP"]
     },
 
     {
-      "title": "Electronics Engineer Intern",
+      "title": "Web Developer Intern",
      "company": "DRS Group of Industries",
      "period": "2023",
      "website": "https://drs-led-lights4.webnode.page",
-     "description": "Worked as an Electronics Engineer Intern at DRS Group of Industries, gaining practical experience in LED light manufacturing, testing, and quality control. Contributed to PCB design, circuit analysis, and troubleshooting to ensure product efficiency and reliability. Also handled and maintained the company’s official website, improving performance and keeping product information up to date. Played a key role in enhancing overall workflow and supporting production improvements.",
+     "description": "Developed and maintained responsive web pages, ensuring a seamless user experience across devices. Collaborated with the team to implement website improvements, optimize performance, and resolve technical issues. Participated in testing, debugging, and content management while contributing to the company's online presence and digital growth.",
      "achievements": [
      " Managed and maintained the company’s official website to ensure smooth functionality and updated product information",
      "Collaborated with engineers to streamline workflow and maintain product reliability",
-     "Revamped the company’s website, strengthening its digital presence and customer engagement"
+     "Revamped the company’s website, strengthening its digital presence and customer engagement",
+     "Developed and maintained responsive web pages."
       ],
-      "technologies": ["PCB Design", "Managed Website", "Testing"]
+      "technologies": [ "Website Maintenance","Responsive Design","Testing & Debugging","PCB Design", "Managed Website", "Testing"]
     }
     
   ],
