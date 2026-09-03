@@ -26,7 +26,7 @@
       },
        {
         "platform": "Resume",
-        "url": "https://drive.google.com/file/d/1oxloqqnUGAYtqNeJ4YDpaeByzY4yjfbp/view?usp=sharing",
+        "url": "https://drive.google.com/file/d/1ZaagJ6YuMuB45RYd5aTlIp635JGlNXdv/view?usp=sharing",
         "icon": "FileUser"
       }
     ]
@@ -66,7 +66,7 @@
     { "label": "Credentials", "target": "_self", "href": "#credentials" },
     { "label": "Skills", "target": "_self", "href": "#skills" },
      { "label": "Projects", "target": "_self", "href": "#projects" },
-    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1oxloqqnUGAYtqNeJ4YDpaeByzY4yjfbp/view?usp=sharing" }
+    { "label": "Resume", "target": "_blank", "href":  "https://drive.google.com/file/d/1ZaagJ6YuMuB45RYd5aTlIp635JGlNXdv/view?usp=sharing" }
   ],
   "experience": [
 
@@ -151,6 +151,13 @@
   },
   "credentials": {
     "certifications": [
+      {
+        "name": "Full-Stack Web Development Certificate",
+        "issuer": "Sheryians Coding School",
+        "date": "2025-2026",
+        "logo": "/certificate course 90.jpg",
+        "link": "https://drive.google.com/file/d/1Cp2mGbMLcv3zi1p8qWHCNi2VAyS2E3sZ/view?usp=sharing"
+      },
       {
         "name": "Hackathon Finalist (2nd Place)",
         "issuer": "Sheryians Coding School",
